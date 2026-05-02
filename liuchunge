@@ -581,3 +581,6 @@
 ||b.bdstatic.com^$important
 !网心云CDN穿透/ikuai云穿透/迅雷星域CDN
 @@||xycdn.com^$important
+# 亿帆广告（YFanAds）追踪/统计，可全拦
+||yfanads.com^
+
