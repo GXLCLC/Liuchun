@@ -583,4 +583,9 @@
 @@||xycdn.com^$important
 # 亿帆广告（YFanAds）追踪/统计，可全拦
 ||yfanads.com^
-
+！放行玉林师范学院服务网站
+@@||_81._https.sfrz.ylu.cn^
+# 网络工具-IPIP.NET公网IP查询接口，用于路由/DDNS获取公网IP，必需放行
+@@||myip.ipip.net^
+# 网络工具-全球IP地理位置查询API
+@@||ip-api.com^
