@@ -598,4 +598,17 @@
 !放行 BootCDN 公共静态资源 (新旧域名都放)
 @@||cdn.bootcdn.net^
 @@||cdn.bootcss.com^
-
+! 老毛桃官网主域名 完全放行
+@@||laomaotao.net^
+! 拦截 0kkkkkt.com 旗下所有追踪/广告子域
+||0kkkkkt.com^
+@@||lifekline.net^$important
+!广告
+||webcast5-open-lq.douyin.com^$important
+||webcast-open.douyin.com^$important
+! 网心科技（comfylink）广告/追踪
+||sdkgen.data.comfylink.com^
+! 超星学习通 MOOC核心资源CDN（严禁屏蔽，导致课程视频/课件无法加载）
+@@||mooc-res2.chaoxing.com^
+! B类 作业帮 行为统计/数据上报（可安全屏蔽，不影响核心学习）
+||zyb-stats.zuoyebang.cc^
