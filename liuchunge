@@ -612,3 +612,47 @@
 @@||mooc-res2.chaoxing.com^
 ! B类 作业帮 行为统计/数据上报（可安全屏蔽，不影响核心学习）
 ||zyb-stats.zuoyebang.cc^
+! 百度 广告转化统计/行为追踪
+||techain.baidu.com^$important
+! 淘宝 日志异常埋点上报
+||retcode.taobao.com^
+! 阿里云mPaaS 埋点日志/行为数据上报
+||mdap.mpaas.cn-hangzhou.aliyuncs.com^
+! 字节跳动 MSSDK 行为/广告/埋点上报
+||mssdk.bytedance.com^
+! 作业帮 Pharos 埋点/统计/监控
+||pharos.zuoyebang.com^
+! 字节 广告素材CDN广告点位
+||lf-cdn-tos.bytescm.com^$important
+! 阿里云 ossgw 全拦截（可能影响淘宝/支付宝）
+||ossgw.alicdn.com^
+! 阿里云 双栈日志埋点上报
+||dualstack.log.aliyuncs.com^
+! 谷歌香港 核心搜索放行
+@@||google.com.hk^
+! OPPO/HeyTap 广告数据上报（安全拦截）
+||cl-data.ads.heytapmobi.com^
+! OPPO欢太广告域名
+||ads.heytapmobi.com^$important
+! 百度联盟广告点击/统计上报（安全拦截）
+||nsclick.baidu.com^$important
+! 百度sp0行为统计追踪
+||sp0.baidu.com^
+! 趣睡科技 8H 埋点/数据上报（含测试环境）
+||flysleep.cn^
+!PCDN域名广告域名
+||ctydoh.cn^
+||newbox.top^
+! 上海点冠网络（51aiclk.com）广告/统计
+||51aiclk.com^
+||91aiclk.com^
+||myaiclk.com^
+! 百度网盟广告/统计（可安全屏蔽）
+||wn.pos.baidu.com^$important
+||tcbox.baidu.com^$important 
+||als.baidu.com^$important 
+! 中国联通App推送服务（屏蔽后收不到话费/账单提醒）
+||pushservice.10010.com^
+! 中国联通营销活动页（可屏蔽，不影响核心功能）
+||activity.10010.com^
+
