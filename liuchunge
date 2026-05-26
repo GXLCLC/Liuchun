@@ -603,9 +603,6 @@
 ! 拦截 0kkkkkt.com 旗下所有追踪/广告子域
 ||0kkkkkt.com^
 @@||lifekline.net^$important
-!广告
-||webcast5-open-lq.douyin.com^$important
-||webcast-open.douyin.com^$important
 ! 网心科技（comfylink）广告/追踪
 ||sdkgen.data.comfylink.com^
 ! 超星学习通 MOOC核心资源CDN（严禁屏蔽，导致课程视频/课件无法加载）
@@ -655,4 +652,15 @@
 ||pushservice.10010.com^
 ! 中国联通营销活动页（可屏蔽，不影响核心功能）
 ||activity.10010.com^
-
+! OPPO/欢太设备遥测日志上报（可屏蔽，保护隐私）
+||obus-cn.dc.heytapmobi.com^$important
+! 欢太CPC广告素材域名 强制拦截
+||activity-cpc.heytapimage.com^$important
+@@||mcs.zijieapi.com^$important
+! 抖音直播FLV拉流（必须放行）
+@@||pull-flv-f1.douyincdn.com^
+@@||pull-flv-l1.douyincdn.com^
+! 贵州湓源网络科技-广告/统计域名（可安全屏蔽）
+||9py.cn^
+! 阿里橙盾-广告/埋点统计域名（可屏蔽）
+||mum.alibabachengdun.net^
