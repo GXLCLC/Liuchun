@@ -619,8 +619,6 @@
 ||mssdk.bytedance.com^
 ! 作业帮 Pharos 埋点/统计/监控
 ||pharos.zuoyebang.com^
-! 字节 广告素材CDN广告点位
-||lf-cdn-tos.bytescm.com^$important
 ! 阿里云 ossgw 全拦截（可能影响淘宝/支付宝）
 ||ossgw.alicdn.com^
 ! 阿里云 双栈日志埋点上报
@@ -664,3 +662,5 @@
 ||9py.cn^
 ! 阿里橙盾-广告/埋点统计域名（可屏蔽）
 ||mum.alibabachengdun.net^
+! 放行抖音网页版直播/拦截部分直播看不了
+@@||unpkg.byted-static.com^$important
