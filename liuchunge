@@ -673,3 +673,23 @@
 ||dm.bytedance.com^
 ! 快手广告（北京达佳互联科技有限公司）
 ||adukwai.com^
+! 字节跳动 DataMind 数据遥测/AI检索
+||dm.bytedance.com^
+||cdn.ping0.cc^
+! 抖音直播广告
+||webcast5-open-lq.douyin.com^
+||webcast26-core-c-lq.amemv.com^
+||webcast-core-m.amemv.com^
+||webcast26-normal-c-lq.amemv.com^
+! 微信HTTPDNS（可拦截，阻断绕防屏蔽）
+||dns.weixin.qq.com.cn^$important
+! 腾讯音乐广告/统计（可安全拦截）
+||papi.tencentmusic.com^
+! 太合音乐TMM广告/统计（可安全拦截）
+||kgwns.tomoremusic.com^
+! 抖音网页版备用节点（含核心资源+轻量上报）——建议放行
+||www-hj.douyin.com^
+! 抖音直播开放API（普通用户可拦）
+||webcast-open.douyin.com^
+! QQ互联-第三方登录核心接口 —— 必须放行
+@@||cgi.connect.qq.com^$important
