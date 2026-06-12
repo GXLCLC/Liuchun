@@ -387,8 +387,6 @@
 ||traffic-monitor-cn.allawntech.com^
 !放行微信朋友圈（SNS）小图、封面图、预览图
 @@||wxsnsdythumb.wxs.qq.com^
-！数字天堂拦截广告域名
-||s2.dcloud.net.cn^
 !欢太OPPO跟踪域名
 ||apisnd.heytapmobi.com^
 !拦截豆包日志埋点
