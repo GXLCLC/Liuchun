@@ -734,3 +734,14 @@
 ||luimg.baidu.com^$important
 ! 百度BES广告+移动统计埋点（可拦截）
 ||bes-mtj.baidu.com^$important
+! 快手磁力引擎广告图片CDN（可拦截）
+||imgx.kwd.inkuai.com^
+!趣头条Aiclk广告SDK更新&追踪域名（可拦截）
+||update0.aiclk.com^
+!抖音直播、评论区更新
+@@||webcast-core-m.amemv.com^
+! 杭州顺畅智行广告内部业务网关，广告配置下发、行为埋点上报
+||inner.shunchangzhixing.com^
+! 51万年历广告竞价拉取&行为上报域名，推送各类弹窗广告
+||dspad.51wnl-cq.com^
+||c.51wnl-cq.com^
