@@ -745,3 +745,35 @@
 ! 51万年历广告竞价拉取&行为上报域名，推送各类弹窗广告
 ||dspad.51wnl-cq.com^
 ||c.51wnl-cq.com^
+! 品小宝广告追踪上报域名，收集广告点击与用户转化行为数据
+||ad-track.pinxiaobao.cn^
+! 字节bytegoofy广告素材CDN节点
+||lf1-cdn-tos.bytegoofy.com^
+! 快手账号登录&身份鉴权核心域名，拦截后无法登录、账号掉线
+@@||id.kuaishou.com^
+! 斗鱼弹幕/实时消息代理
+@@||wsproxy.douyu.com^
+@@||danmuproxy.douyu.com^
+! 阿里百川广告静态素材CDN，承载开屏/弹窗推广图片、广告渲染脚本
+||dorangesource.alicdn.com^
+! 菜鸟移动端网络性能&行为埋点上报广告
+||netflow-mtop.cainiao.com^
+！放行墨迹天气静态资源
+@@||oss4bpc.moji.com^
+! 番茄小说阅读场景专用图片 CDN
+@@||lf3-reading.fqnovelpic.com^
+@@||lf3-reading.fqnovelstatic.com^
+!字节系 App（抖音、番茄、西瓜、短剧等）点播播放器核心配置接口
+@@||vod-settings.bytedanceapi.com^
+! 番茄小说专属图片 CDN 节点
+@@||p6-novel.byteimg.com^
+@@||p3-novel.byteimg.com^
+! 番茄小说红果短剧核心业务
+@@||api5-normal-sinfonlineb.fqnovel.com^
+@@||api2-normal-sinfonlineb.fqnovel.com^
+@@||log3-applog.fqnovel.com^
+@@||log5-applog.fqnovel.com^
+! 百度对象存储核心API
+@@||ossapi.baidu.com^
+! 墨迹ai气象雷达图 API 接口
+@@||coapi.moji.com^
