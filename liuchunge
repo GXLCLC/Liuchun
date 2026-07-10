@@ -441,7 +441,7 @@
 ! vivo 广告
 ||dsplog.vivo.com.cn^$important
 ! 欢太科技有限公司广告推荐流
-||ibrowser.feeds.heytapmobi.com^
+||ibrowser.feeds.heytapmobi.com^$important
 !酷狗腾讯广告
 ||papi.kugou.com^
 ||au.qq.com^
@@ -777,3 +777,18 @@
 @@||ossapi.baidu.com^
 ! 墨迹ai气象雷达图 API 接口
 @@||coapi.moji.com^
+! 广告
+||qrstuvwxyzab.com^
+! 腾讯广告曝光点击行为埋点上报域名
+||report.idqqimg.com^
+! 公众号信息流广告短视频缩略图CDN，屏蔽文末视频广告封面
+||wxsnsdythumb.wxs.qq.com^
+! 微信第三方服务商小程序/公众号图片CDN可能包含广告
+||wximg.wxs.qq.com^
+! 腾讯H5页面及广告落地页异常访问日志上报域名
+||yybadaccess.3g.qq.com^
+! 斗鱼直播P2P分发STUN穿透服务器(PCDN)
+||stun.douyucdn.cn^
+||stun1.douyucdn.cn^
+! 斗鱼P2P运行日志上报域名
+||p2plog.douyucdn.cn^
