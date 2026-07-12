@@ -8,6 +8,6 @@
 2、#海哥的清单           https://ghproxy.net/https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt                 
 3、#刘淳的拦截清单       https://ghproxy.net/https://raw.githubusercontent.com/GXLCLC/Ad-blocking-list/refs/heads/main/adlist    
 ```
-##如图
+如图
 ![展示图片](images/1.png)
 
