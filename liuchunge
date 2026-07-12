@@ -792,3 +792,9 @@
 ||stun1.douyucdn.cn^
 ! 斗鱼P2P运行日志上报域名
 ||p2plog.douyucdn.cn^
+! 字节跳动全系APP静态图片/广告素材CDN
+||lf-cdn-tos.bytescm.com^$important
+! 字节穿山甲广告行为追踪上报节点，屏蔽广告数据采集
+||tnc0-alisc1.zijieapi.com^
+! OPPO欢太系统全域用户行为追踪埋点，阻断广告画像采集
+||mdp-usertrace-cn.heytapmobi.com^$important
