@@ -808,3 +808,10 @@
 ||os.oceancloudapi.com^
 ! OPPO欢太用户中心行为追踪域名，采集广告点击行为推送精准推广
 ||uc-track-gl.heytapmobi.com^$important
+! 斗鱼P2P点对点故障日志上报域名，拦截可减少后台上行上传
+||p2perrorlog.douyucdn.cn^
+! 第三方聚合AI模型中转接口
+@@||api.pearapi.ai^
+! QQ音乐PCDN打洞调度，P2P上行上传，不影响正常听歌
+||musicstun.p2p.qq.com^
+||*.p2ptun.qq.com^
